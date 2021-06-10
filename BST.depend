@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589138399 source:c:\users\lenovo\desktop\4th term\trees assignment\bst\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
